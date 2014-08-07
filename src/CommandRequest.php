@@ -1,3 +1,3 @@
-<?php namespace BigName\DomainComponents;
+<?php namespace BigName\CommandComponents;
 
 interface CommandRequest {}
