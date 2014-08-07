@@ -2,9 +2,7 @@
 
 This package provides components for implementing command-oriented-interfaces.
 
-## Included in this package
-
-### Interfaces
+## Interfaces
 
 [**CommandBus**](https://github.com/heybigname/command-components/blob/master/src/CommandBus.php)
 ```php
