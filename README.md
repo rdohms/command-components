@@ -17,3 +17,11 @@ public function handle(CommandRequest $request);
 [**CommandRequest**](https://github.com/heybigname/command-components/blob/master/src/CommandRequest.php)
 
 [**CommandResponse**](https://github.com/heybigname/command-components/blob/master/src/CommandResponse.php)
+
+## Installation
+
+Run the command below to install via Composer
+
+```shell
+composer require heybigname/command-components
+```
